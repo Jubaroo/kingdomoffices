@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KingdomOffices.iml" filepath="$PROJECT_DIR$/KingdomOffices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KingdomOffices_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KingdomOffices_main.iml" group="KingdomOffices" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KingdomOffices_test.iml" filepath="$PROJECT_DIR$/.idea/modules/KingdomOffices_test.iml" group="KingdomOffices" />
+    </modules>
+  </component>
+</project>
